@@ -1,0 +1,33 @@
+Flask==3.1.2
+flask-cors==6.0.1
+python-jose==3.5.0
+beautifulsoup4==4.13.5
+requests==2.32.5
+python-dotenv==1.1.1
+newsapi-python==0.2.7
+google-search-results==2.4.2
+pillow==11.3.0
+pytesseract==0.3.13
+selenium==4.35.0
+webdriver-manager==4.0.2
+moviepy==1.0.3
+openai-whisper==20250625
+yt-dlp==2025.8.22
+pandas==2.1.0
+numpy==1.26.4
+tensorflow==2.15.0
+torch==2.1.2
+scipy==1.12.0
+transformers==4.39.0
+
+
+# npm install react react-dom
+# npm install typescript @types/react @types/react-dom --save-dev
+# npm install vite
+# npm install @auth0/auth0-react
+# npm install framer-motion
+# npm install lucide-react
+# npm install tailwindcss postcss autoprefixer
+# npm install @radix-ui/react-icons
+# npm install @shadcn/ui
+# npm install recharts
